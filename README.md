@@ -1,10 +1,10 @@
-🛒 Supermarket Bill Calculator
+# 🛒 Supermarket Bill Calculator
 
 A clean, modern, fully responsive billing system built using HTML, CSS, and JavaScript. Includes dark mode, GST/Discount calculations, dynamic table updates, notifications, and PDF export functionality.
 
 ---
 
-🚀 Overview
+# 🚀 Overview
 
 This project is a web-based billing system designed for supermarkets, retail stores, and small businesses.
 It lets users add items, manage quantities, apply taxes or discounts, and instantly calculates the final bill with a downloadable PDF invoice.
@@ -13,7 +13,7 @@ It lets users add items, manage quantities, apply taxes or discounts, and instan
 
 The UI is modern, minimal, and optimized for both desktop and mobile screens.
 
-✨ Key Features
+# ✨ Key Features
 
 🔹 Smart Billing
 
@@ -73,7 +73,7 @@ Currency formatting according to INR
 
 ---
 
-🧠 Tech Stack
+# 🧠 Tech Stack
 
 | Layer              | Technologies                              |
 | ------------------ | ----------------------------------------- |
@@ -83,7 +83,7 @@ Currency formatting according to INR
 | **Design System**  | Custom UI with variables, responsive grid |
 
 ---
-🔧 How to Run
+# 🔧 How to Run
 
 1. Clone the Repository -->
 git clone https://github.com/your-username/supermarket-bill-calculator.git
@@ -95,7 +95,7 @@ Just open the index.html file in any browser.
 All dependencies are included via CDN.
 
 ---
-📝 How It Works
+# 📝 How It Works
 1. Add Items
 
 Users enter:
@@ -126,7 +126,9 @@ Generates formatted invoice
 
 Auto-downloads
 
-🔮 Future Improvements
+---
+
+# 🔮 Future Improvements
 
 If you want this project to look like a real client-grade application, add these later:
 
@@ -143,6 +145,7 @@ If you want this project to look like a real client-grade application, add these
 🟦 User authentication (if converting to a full app)
 
 🟦 Backend API with Spring Boot (if expanding)
+
 
 
 
