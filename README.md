@@ -70,3 +70,13 @@ Clear all data
 
 Currency formatting according to INR
 
+---
+
+| Layer              | Technologies                              |
+| ------------------ | ----------------------------------------- |
+| **Frontend**       | HTML5, CSS3, JavaScript ES6               |
+| **Fonts & Icons**  | Google Fonts (Inter), Font Awesome        |
+| **PDF Generation** | jsPDF                                     |
+| **Design System**  | Custom UI with variables, responsive grid |
+
+
