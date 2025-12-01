@@ -100,14 +100,12 @@ Quantity
 
 Rate
 
-The system calculates:
-
 Item Total = Quantity × Rate
+
 
 2. Apply Discounts & GST
 
-Final bill uses:
-
+Final bill uses: 
 Total = (Sum of Items - Discount) + GST
 
 3. Export Invoice
@@ -135,6 +133,7 @@ If you want this project to look like a real client-grade application, add these
 🟦 User authentication (if converting to a full app)
 
 🟦 Backend API with Spring Boot (if expanding)
+
 
 
 
