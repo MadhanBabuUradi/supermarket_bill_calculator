@@ -85,16 +85,15 @@ Currency formatting according to INR
 ---
 🔧 How to Run
 
-1. Clone the Repository
+1. Clone the Repository -->
 git clone https://github.com/your-username/supermarket-bill-calculator.git
 
-2. Open the Project
-
+2. Open the Project -->
 Just open the index.html file in any browser.
 
-3. No Installation Required
-
+3. No Installation Required -->
 All dependencies are included via CDN.
+
 
 
 
