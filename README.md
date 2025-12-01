@@ -133,6 +133,19 @@ If you want this project to look like a real client-grade application, add these
 
 🟦 Backend API with Spring Boot (if expanding)
 
+# 🤝 Contributing
+
+Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to modify.
+
+# 📄 License
+
+This project is open-source and available under the MIT License.
+
+# ⭐ Support
+
+If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+
+
 
 
 
