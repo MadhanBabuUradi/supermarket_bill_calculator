@@ -2,11 +2,14 @@
 
 A clean, modern, fully responsive billing system built using HTML, CSS, and JavaScript. Includes dark mode, GST/Discount calculations, dynamic table updates, notifications, and PDF export functionality.
 
+---
 
 🚀 Overview
 
 This project is a web-based billing system designed for supermarkets, retail stores, and small businesses.
 It lets users add items, manage quantities, apply taxes or discounts, and instantly calculates the final bill with a downloadable PDF invoice.
+
+---
 
 The UI is modern, minimal, and optimized for both desktop and mobile screens.
 
@@ -66,3 +69,4 @@ Delete item option
 Clear all data
 
 Currency formatting according to INR
+
