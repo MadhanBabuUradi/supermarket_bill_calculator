@@ -14,6 +14,7 @@ It lets users add items, manage quantities, apply taxes or discounts, and instan
 The UI is modern, minimal, and optimized for both desktop and mobile screens.
 
 ✨ Key Features
+
 🔹 Smart Billing
 
 Add multiple items with quantity, rate, and category.
@@ -78,5 +79,6 @@ Currency formatting according to INR
 | **Fonts & Icons**  | Google Fonts (Inter), Font Awesome        |
 | **PDF Generation** | jsPDF                                     |
 | **Design System**  | Custom UI with variables, responsive grid |
+
 
 
