@@ -98,8 +98,7 @@ Category
 
 Quantity
 
-Rate
-
+Rate --> 
 Item Total = Quantity × Rate
 
 
@@ -133,6 +132,7 @@ If you want this project to look like a real client-grade application, add these
 🟦 User authentication (if converting to a full app)
 
 🟦 Backend API with Spring Boot (if expanding)
+
 
 
 
