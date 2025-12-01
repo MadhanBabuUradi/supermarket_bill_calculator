@@ -94,6 +94,55 @@ Just open the index.html file in any browser.
 3. No Installation Required -->
 All dependencies are included via CDN.
 
+---
+📝 How It Works
+1. Add Items
+
+Users enter:
+
+Item name
+
+Category
+
+Quantity
+
+Rate
+
+The system calculates:
+
+Item Total = Quantity × Rate
+
+2. Apply Discounts & GST
+
+Final bill uses:
+
+Total = (Sum of Items - Discount) + GST
+
+3. Export Invoice
+
+Creates PDF via jsPDF
+
+Generates formatted invoice
+
+Auto-downloads
+
+🔮 Future Improvements
+
+If you want this project to look like a real client-grade application, add these later:
+
+🟦 LocalStorage saving (persistent items)
+
+🟦 Voice input for items
+
+🟦 Multiple store templates
+
+🟦 Barcode Scanner support
+
+🟦 CSV/Excel export
+
+🟦 User authentication (if converting to a full app)
+
+🟦 Backend API with Spring Boot (if expanding)
 
 
 
