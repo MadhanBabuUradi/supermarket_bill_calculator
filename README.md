@@ -73,12 +73,28 @@ Currency formatting according to INR
 
 ---
 
+🧠 Tech Stack
+
 | Layer              | Technologies                              |
 | ------------------ | ----------------------------------------- |
 | **Frontend**       | HTML5, CSS3, JavaScript ES6               |
 | **Fonts & Icons**  | Google Fonts (Inter), Font Awesome        |
 | **PDF Generation** | jsPDF                                     |
 | **Design System**  | Custom UI with variables, responsive grid |
+
+---
+🔧 How to Run
+
+1. Clone the Repository
+git clone https://github.com/your-username/supermarket-bill-calculator.git
+
+2. Open the Project
+
+Just open the index.html file in any browser.
+
+3. No Installation Required
+
+All dependencies are included via CDN.
 
 
 
