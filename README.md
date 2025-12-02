@@ -21,51 +21,51 @@ Real-time final bill calculation.
 
 🔹 Advanced Options
 
-Apply Discount (%)
+  Apply Discount (%)
 
-Apply GST (%)
+  Apply GST (%)
 
-Auto-updates grand total.
+  Auto-updates grand total.
 
 🔹 Modern UI
 
-Clean design with Inter font
+  Clean design with Inter font
 
-Responsive layout
+  Responsive layout
 
-Smooth transitions
+  Smooth transitions
 
-Professional color palette
+  Professional color palette
 
 🔹 Dark Mode
 
-One-click theme switch
-
-Persistent UI with smooth animation
+  One-click theme switch
+  
+  Persistent UI with smooth animation
 
 🔹 PDF Invoice Export
 
-Generate a formatted bill using jsPDF
-
-Date/time stamp included
-
-Download-ready with one click
+  Generate a formatted bill using jsPDF
+  
+  Date/time stamp included
+  
+  Download-ready with one click
 
 🔹 Real-time Notifications
 
-Success, error, info, and warning alerts
-
-Auto-dismiss messages
-
-Better user experience
+  Success, error, info, and warning alerts
+  
+  Auto-dismiss messages
+  
+  Better user experience
 
 🔹 Other Enhancements
 
-Delete item option
-
-Clear all data
-
-Currency formatting according to INR
+  Delete item option
+  
+  Clear all data
+  
+  Currency formatting according to INR
 
 # 🧠 Tech Stack
 
@@ -144,6 +144,7 @@ This project is open-source and available under the MIT License.
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+
 
 
 
