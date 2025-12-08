@@ -64,21 +64,9 @@ Auto-downloads
 
 # 🔮 Future Improvements
 
-If you want this project to look like a real client-grade application, add these later:
-
-🟦 LocalStorage saving (persistent items)
-
-🟦 Voice input for items
-
-🟦 Multiple store templates
-
-🟦 Barcode Scanner support
-
-🟦 CSV/Excel export
-
-🟦 User authentication (if converting to a full app)
-
-🟦 Backend API with Spring Boot (if expanding)
+- Barcode scanning
+- Role-based access
+- Graph analytics
 
 # 🤝 Contributing
 
@@ -91,6 +79,7 @@ This project is open-source and available under the MIT License.
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+
 
 
 
