@@ -1,7 +1,9 @@
 # 🛒 Supermarket Bill Calculator
+# Project Overview
 
-A clean, modern, fully responsive billing system built using HTML, CSS, and JavaScript. Includes dark mode, GST/Discount calculations, dynamic table updates, notifications, and PDF export functionality.
+SmartPOS is a full-stack supermarket billing system that allows cashiers or store owners to generate bills, manage products, track inventory, calculate totals with tax, apply discounts, and print/download customer receipts.
 
+Includes admin dashboard, product CRUD, daily sales report, and a polished UI.
 # 🚀 Overview
 
 This project is a web-based billing system designed for supermarkets, retail stores, and small businesses.
@@ -144,6 +146,7 @@ This project is open-source and available under the MIT License.
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+
 
 
 
