@@ -1,5 +1,4 @@
 # 🛒 Supermarket Bill Calculator
-# Project Overview
 
 SmartPOS is a full-stack supermarket billing system that allows cashiers or store owners to generate bills, manage products, track inventory, calculate totals with tax, apply discounts, and print/download customer receipts.
 
@@ -146,6 +145,7 @@ This project is open-source and available under the MIT License.
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+
 
 
 
