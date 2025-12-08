@@ -37,13 +37,13 @@ All dependencies are included via CDN.
 # 📝 How It Works
 1. Add Items
 
-Users enter:
+- Users 
 
-Item name
+- Item name
 
-Category
+- Category
 
-Quantity
+- Quantity
 
 Rate --> 
 Item Total = Quantity × Rate
@@ -51,16 +51,16 @@ Item Total = Quantity × Rate
 
 2. Apply Discounts & GST
 
-Final bill uses: 
+- Final bill uses: 
 Total = (Sum of Items - Discount) + GST
 
 3. Export Invoice
 
-Creates PDF via jsPDF
+- Creates PDF via jsPDF
 
-Generates formatted invoice
+- Generates formatted invoice
 
-Auto-downloads
+- Auto-downloads
 
 # 🔮 Future Improvements
 
@@ -79,6 +79,7 @@ This project is open-source and available under the MIT License.
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+
 
 
 
