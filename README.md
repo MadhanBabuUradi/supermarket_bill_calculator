@@ -3,12 +3,16 @@
 SmartPOS is a full-stack supermarket billing system that allows cashiers or store owners to generate bills, manage products, track inventory, calculate totals with tax, apply discounts, and print/download customer receipts.
 
 Includes admin dashboard, product CRUD, daily sales report, and a polished UI.
-# 🚀 Overview
+# 🚀 Core Features
+| Basic Billing | Inventory Management (CRUD) | Bill Generation | Dashboard |
+| :--- | :--- | :--- | :--- |
+| Add product to cart | Add product | Auto-generated bill ID | Total sales today |
+| Quantity selection | Edit product | Customer details | Inventory count |
+| Auto price calculation | Delete product | Download bill as PDF | Fast-moving products |
+| Auto GST/tax calculation | Update stock levels | Print-friendly receipt | Low stock items |
+| Discount support | Low-stock alerts | | |
+| Final billing summary | | | |
 
-This project is a web-based billing system designed for supermarkets, retail stores, and small businesses.
-It lets users add items, manage quantities, apply taxes or discounts, and instantly calculates the final bill with a downloadable PDF invoice.
-
-The UI is modern, minimal, and optimized for both desktop and mobile screens.
 
 # ✨ Key Features
 
@@ -145,6 +149,7 @@ This project is open-source and available under the MIT License.
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+
 
 
 
