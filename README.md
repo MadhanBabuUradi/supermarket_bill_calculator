@@ -14,64 +14,6 @@ Includes admin dashboard, product CRUD, daily sales report, and a polished UI.
 | Final billing summary | | | |
 
 
-# ✨ Key Features
-
-🔹 Smart Billing
-
-Add multiple items with quantity, rate, and category.
-
-Auto-calculated item totals.
-
-Real-time final bill calculation.
-
-🔹 Advanced Options
-
-  Apply Discount (%)
-
-  Apply GST (%)
-
-  Auto-updates grand total.
-
-🔹 Modern UI
-
-  Clean design with Inter font
-
-  Responsive layout
-
-  Smooth transitions
-
-  Professional color palette
-
-🔹 Dark Mode
-
-  One-click theme switch
-  
-  Persistent UI with smooth animation
-
-🔹 PDF Invoice Export
-
-  Generate a formatted bill using jsPDF
-  
-  Date/time stamp included
-  
-  Download-ready with one click
-
-🔹 Real-time Notifications
-
-  Success, error, info, and warning alerts
-  
-  Auto-dismiss messages
-  
-  Better user experience
-
-🔹 Other Enhancements
-
-  Delete item option
-  
-  Clear all data
-  
-  Currency formatting according to INR
-
 # 🧠 Tech Stack
 
 | Layer              | Technologies                              |
@@ -149,6 +91,7 @@ This project is open-source and available under the MIT License.
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+
 
 
 
