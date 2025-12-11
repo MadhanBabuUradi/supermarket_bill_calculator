@@ -78,7 +78,8 @@ This project is open-source and available under the MIT License.
 
 # ⭐ Support
 
-If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
+If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility !.
+
 
 
 
